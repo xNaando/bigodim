@@ -13,7 +13,7 @@
         <div class="col-6 row justify-end align-center q-pr-lg">
           <div>
             <q-img :src="foto" alt="Foto de Paulo Bigodim"
-                   style="height: 500px; width: 500px; border-radius: 50%;"/>
+                   style="height: 500px; width: 600px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
           </div>
         </div>
         <div class="col-6">
@@ -54,7 +54,7 @@
         <div class="col-6 row q-pl-lg">
           <div>
             <q-img :src="foto2" alt="Foto de Paulo Bigodim"
-                   style="height: 500px; width: 500px; border-radius: 50%;"/>
+                   style="height: 500px; width: 600px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
           </div>
         </div>
       </div>
@@ -62,7 +62,7 @@
         <div class="col-6 row justify-end q-pr-lg">
           <div>
             <q-img :src="foto3" alt="Foto de Paulo Bigodim"
-                   style="height: 500px; width: 500px; border-radius: 50%;"/>
+                   style="height: 500px; width: 600px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
           </div>
         </div>
         <div class="col-6">
@@ -103,7 +103,7 @@
         <div class="col-6 row q-pl-lg">
           <div>
             <q-img :src="foto4" alt="Foto de Paulo Bigodim"
-                   style="height: 500px; width: 500px; border-radius: 50%;"/>
+                   style="height: 500px; width: 600px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
           </div>
         </div>
       </div>
@@ -193,7 +193,7 @@ import video4 from '/public/videos/video4.mp4'
 <style scoped>
 /* Estilo geral */
 .q-layout {
-  background-color: #fafafa;
+  background: linear-gradient(to bottom right, #e0f7fa, #ffffff); /* Fundo gradiente */
 }
 
 /* Títulos */
@@ -201,5 +201,16 @@ import video4 from '/public/videos/video4.mp4'
   font-size: 24px;
   font-weight: bold;
   color: #003366;
+}
+
+/* Estilo das imagens */
+.q-img {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra nas imagens */
+}
+
+/* Estilo dos parágrafos */
+p {
+  line-height: 1.6; /* Aumenta o espaçamento entre linhas */
+  margin-bottom: 20px; /* Espaçamento inferior */
 }
 </style>
