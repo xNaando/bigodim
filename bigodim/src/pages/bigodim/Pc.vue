@@ -176,8 +176,8 @@
         </div>
       </div>
     </div>
-    <div class="row col-12 bg-blue-4 items-center justify-center text-center text-white"
-         style="height: 70px; font-size: 16px; font-weight: 500;">
+    <div class="row col-12 items-center justify-center text-center text-white"
+         style="height: 70px; font-size: 16px; font-weight: 500; background-color: #0d47a1">
       <i class="fas fa-copyright" style="margin-right: 5px;"></i>
       Paulo Bigodinho - Todos os direitos reservados
     </div>
