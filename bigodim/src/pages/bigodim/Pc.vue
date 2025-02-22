@@ -21,9 +21,10 @@
       <div class="row col-12 justify-center" style="margin-top: 30px;">
         <div class="text-h5" style="color: #003366; font-weight: bold;">História</div>
         <p class="q-mt-md" style="font-size: 18px; text-align: center; color: #333;">
-          Paulo Bigodim iniciou sua trajetória política com o objetivo de transformar Santa Luzia, destacando-se pela
-          ética, comprometimento e amor à sua cidade. Com anos de experiência, tem trabalhado em diversas áreas para
-          promover o crescimento e bem-estar da população.
+          Iniciou sua carreira política em 2012, foi eleito o vereador mais jovem de Santa Luzia em 2016.
+          Professor de filosofia, formado em Gestão pública sempre se ateve as causas sociais e ao interesse do povo.
+          Se destacou  pela atuação parlamentar em defesa das pessoas com necessidades especias, dos idosos, dos jovens, das crianças e da causa animal.
+          E por isso em 2020 foi reeleito com 1957 votos sendo o terceiro vereador mais votado da cidade.
         </p>
       </div>
 
