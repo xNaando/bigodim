@@ -2,7 +2,7 @@
   <q-layout v-if="$q.screen.width < 600" view="hHh lpR fFf">
     <div class="row col-12" style="padding-inline: 20px">
       <div class="row col-12 justify-center text-center" style="padding-top: 20px; line-height: 1.3">
-        <div class="col-12" style="font-size: 50px; font-weight: bold; color: #003366;">
+        <div class="col-12" style="font-size: 40px; font-weight: bold; color: #003366;">
           Paulo Bigodinho
         </div>
         <div class="col-12" style="font-size: 20px; color: #666;">
@@ -11,9 +11,8 @@
       </div>
       <div class="row col-12 items-center" style="margin-top: 15px;">
         <div class="col-12 row text-center">
-          <div class="col-12" style="color: #003366; font-weight: bold; margin-top: 20px; font-size: 30px">Paulo
-            Henrique Paulino e
-            Silva
+          <div class="col-12" style="color: #003366; font-weight: bold; margin-top: 20px; font-size: 23px">
+            Paulo Henrique Paulino e Silva
           </div>
           <div class="col-12 text-center">
             <q-img :src="foto" alt="Foto de Paulo Bigodim"
