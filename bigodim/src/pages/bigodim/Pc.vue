@@ -3,7 +3,7 @@
     <div class="row col-12" style="padding-inline: 100px">
       <div class="row col-12 justify-center text-center" style="padding: 20px; line-height: 1.2">
         <div class="col-12" style="font-size: 50px; font-weight: bold; color: #003366;">
-          Paulo Bigodim
+          Paulo Bigodinho
         </div>
         <div class="col-12" style="font-size: 20px; color: #666;">
           Prefeito de Santa Luzia
@@ -176,10 +176,16 @@
         </div>
       </div>
     </div>
+    <div class="row col-12 bg-blue-4 items-center justify-center text-center text-white"
+         style="height: 70px; font-size: 16px; font-weight: 500;">
+      <i class="fas fa-copyright" style="margin-right: 5px;"></i>
+      Paulo Bigodinho - Todos os direitos reservados
+    </div>
   </q-layout>
 </template>
 
 <script setup>
+import '@fortawesome/fontawesome-free/css/all.css';
 import foto from '/public/imagens/foto.png'
 import foto2 from '/public/imagens/foto2.png'
 import foto3 from '/public/imagens/foto3.png'

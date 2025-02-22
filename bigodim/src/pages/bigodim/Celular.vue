@@ -1,9 +1,9 @@
 <template>
   <q-layout v-if="$q.screen.width < 600" view="hHh lpR fFf">
     <div class="row col-12" style="padding-inline: 20px">
-      <div class="row col-12 justify-center text-center" style="padding: 20px; line-height: 1.2">
+      <div class="row col-12 justify-center text-center" style="padding-top: 20px; line-height: 1.3">
         <div class="col-12" style="font-size: 50px; font-weight: bold; color: #003366;">
-          Paulo Bigodim
+          Paulo Bigodinho
         </div>
         <div class="col-12" style="font-size: 20px; color: #666;">
           Prefeito de Santa Luzia
@@ -11,7 +11,8 @@
       </div>
       <div class="row col-12 items-center" style="margin-top: 15px;">
         <div class="col-12 row text-center">
-          <div class="col-12" style="color: #003366; font-weight: bold; margin-top: 20px; font-size: 30px">Paulo Henrique Paulino e
+          <div class="col-12" style="color: #003366; font-weight: bold; margin-top: 20px; font-size: 30px">Paulo
+            Henrique Paulino e
             Silva
           </div>
           <div class="col-12 text-center">
@@ -21,12 +22,12 @@
         </div>
         <div class="col-12">
           <div>
-            <p class="q-mt-md" style="font-size: 22px; color: #333; text-align: justify;">
+            <p class="q-mt-md" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3">
               Paulo Henrique Paulino e Silva, amplamente conhecido como Paulo Bigodinho, nasceu e foi criado em Santa
               Luzia, Minas Gerais. Formado em Gestão Pública, com especializações em Gestão de Pessoas e Educação
               Inclusiva, Paulo sempre demonstrou um profundo compromisso com sua comunidade local.
             </p>
-            <p class="q-mt-md" style="font-size: 22px; color: #333; text-align: justify;">
+            <p class="q-mt-md" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3">
               Sua trajetória política teve início há oito anos, quando foi eleito vereador de Santa Luzia. Durante seus
               mandatos, destacou-se por sua dedicação em abordar questões cruciais para os cidadãos, especialmente nas
               áreas de saúde, educação e infraestrutura. Sua atuação proativa e presença constante nas comunidades
@@ -37,14 +38,14 @@
       </div>
       <div class="row col-12 items-center">
         <div class="col-12">
-          <p class="" style="font-size: 22px; color: #333; text-align: justify;">
+          <p class="" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3">
             Em 2024, Paulo Bigodinho decidiu candidatar-se ao cargo de prefeito pelo partido Avante. Sua campanha foi
             marcada por uma forte conexão com os eleitores, simbolizada pela "onda laranja", cor predominante em seus
             materiais de campanha. Enfrentando adversários influentes, como Wander do Delegado (PSD) e a ex-prefeita
             Roseli Pimentel, Paulo destacou-se por suas propostas centradas na inclusão social, melhoria dos serviços
             públicos e desenvolvimento econômico sustentável.
           </p>
-          <p class="" style="font-size: 22px; color: #333; text-align: justify;">
+          <p class="" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3">
             A eleição municipal de 6 de outubro de 2024 foi histórica para Santa Luzia. Paulo Bigodinho foi eleito no
             primeiro turno, obtendo 43,10% dos votos válidos, totalizando 47.306 votos. Sua vitória representou a
             primeira vez em mais de três décadas que um candidato nascido na sede do município assumiu a prefeitura,
@@ -61,14 +62,14 @@
       <div class="row col-12 items-center" style="margin-top: 20px">
         <div class="col-12">
           <div>
-            <p class="" style="font-size: 22px; color: #333; text-align: justify;">
+            <p class="" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3">
               A campanha eleitoral não foi isenta de desafios. Paulo enfrentou acusações e ataques pessoais, incluindo
               conflitos com o deputado estadual Christiano Xavier, ex-prefeito de Santa Luzia. Em setembro de 2024,
               Xavier registrou um boletim de ocorrência contra Paulo por calúnia, difamação, ameaça e injúria, alegando
               ter sido chamado de "criminoso" e "moleque". Em resposta, Paulo afirmou que não se intimidaria e que
               continuaria sua campanha focada nas necessidades da população.
             </p>
-            <p class="" style="font-size: 22px; color: #333; text-align: justify;">
+            <p class="" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3">
               A posse de Paulo Bigodinho ocorreu em 1º de janeiro de 2025, em uma cerimônia realizada na Rua Direita, no
               Centro Histórico de Santa Luzia. Em seu discurso de posse, ele relembrou sua trajetória como vereador e os
               desafios enfrentados durante a campanha. Destacou a necessidade de reestruturar os serviços de saúde, com
@@ -84,16 +85,16 @@
           </div>
         </div>
       </div>
-      <div class="row col-12 items-center" style="margin-top: 10px">
+      <div class="row col-12 items-center" style="margin-top: 20px">
         <div class="col-12 ">
-          <p class="" style="font-size: 22px; color: #333; text-align: justify;">
+          <p class="" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3">
             Na área da educação, Paulo enfatizou a importância da inclusão, anunciando planos para capacitar
             professores, modernizar escolas e implementar programas que promovam a inclusão de todas as crianças. Uma de
             suas primeiras iniciativas foi a proposta de incorporar o símbolo do autismo nos uniformes e materiais
             escolares, bem como em placas de identificação de unidades de saúde e demais equipamentos públicos,
             reforçando o compromisso com a conscientização e inclusão.
           </p>
-          <p class="" style="font-size: 22px; color: #333; text-align: justify;">
+          <p class="" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3">
             Para impulsionar o desenvolvimento econômico, o novo prefeito propôs a desburocratização da máquina pública,
             visando atrair novos investimentos e apoiar o empreendedorismo local. Reconhecendo a posição geográfica
             estratégica de Santa Luzia, Paulo planejou transformar a cidade em um polo de inovação e progresso,
@@ -107,9 +108,9 @@
           </div>
         </div>
       </div>
-      <div class="row col-12" style="margin-top: 10px">
+      <div class="row col-12" style="margin-top: 25px">
         <div>
-          <p class="" style="font-size: 22px; color: #333; text-align: justify;">
+          <p class="" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3">
             Além disso, Paulo Bigodinho enfatizou a importância da participação popular em seu governo. Comprometeu-se a
             manter um governo de portas abertas, realizando reuniões comunitárias e consultas públicas para garantir que
             a população tenha voz ativa nas decisões que impactam a cidade. Sua gestão busca unir Santa Luzia,
@@ -167,7 +168,7 @@
       </div>
       <div class="row col-12" style="margin-top: -30px">
         <div>
-          <p class="" style="font-size: 22px; color: #333; text-align: justify; margin-bottom: 50px">
+          <p class="" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3; margin-bottom: 50px">
             Paulo Bigodinho se tornou um símbolo de renovação e compromisso com Santa Luzia, trazendo uma gestão focada
             no bem-estar da população e no desenvolvimento sustentável da cidade. Sua trajetória política é marcada pela
             proximidade com o povo, pela transparência e pelo desejo genuíno de transformar a vida dos cidadãos para
@@ -178,10 +179,16 @@
         </div>
       </div>
     </div>
+    <div class="row col-12 bg-blue-4 items-center justify-center text-center text-white"
+         style="height: 70px; font-size: 16px; font-weight: 500">
+      <i class="fas fa-copyright" style="margin-right: 5px;"></i>
+      Paulo Bigodinho - Todos os direitos reservados
+    </div>
   </q-layout>
 </template>
 
 <script setup>
+import '@fortawesome/fontawesome-free/css/all.css';
 import foto from '/public/imagens/foto.png'
 import foto2 from '/public/imagens/foto2.png'
 import foto3 from '/public/imagens/foto3.png'
