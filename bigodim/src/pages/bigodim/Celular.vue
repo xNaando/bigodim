@@ -17,7 +17,7 @@
           </div>
           <div class="col-12 text-center">
             <q-img :src="foto" alt="Foto de Paulo Bigodim"
-                   style="height: 400px; width: 400px; margin-top: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+                   style="height: 400px; width: 100%; margin-top: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
           </div>
         </div>
         <div class="col-12">
@@ -55,7 +55,7 @@
         <div class="col-12 row text-center">
           <div class="col-12">
             <q-img :src="foto2" alt="Foto de Paulo Bigodim"
-                   style="height: 400px; width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+                   style="height: 400px; width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
           </div>
         </div>
       </div>
@@ -81,7 +81,7 @@
         <div class="col-12 row">
           <div class="col-12 text-center">
             <q-img :src="foto3" alt="Foto de Paulo Bigodim"
-                   style="height: 400px; width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+                   style="height: 400px; width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
           </div>
         </div>
       </div>
@@ -104,7 +104,7 @@
         <div class="col-12 row text-center">
           <div class="col-12">
             <q-img :src="foto4" alt="Foto de Paulo Bigodim"
-                   style="height: 400px; width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+                   style="height: 400px; width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
           </div>
         </div>
       </div>
@@ -180,9 +180,13 @@
       </div>
     </div>
     <div class="row col-12 items-center justify-center text-center text-white"
-         style="height: 70px; font-size: 16px; font-weight: 500; background-color: #0d47a1">
-      <i class="fas fa-copyright" style="margin-right: 5px;"></i>
-      Paulo Bigodinho - Todos os direitos reservados
+         style="height: 70px; padding-inline: 10px; font-size: 15px; font-weight: 500; background-color: #0d47a1">
+      <div>
+        <i class="fas fa-copyright" style="margin-right: 5px;"></i>
+      </div>
+      <div>
+        Paulo Bigodinho - Todos os direitos reservados
+      </div>
     </div>
   </q-layout>
 </template>
