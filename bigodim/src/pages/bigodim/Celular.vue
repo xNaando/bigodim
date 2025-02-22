@@ -117,7 +117,7 @@
             promovendo transparência, inclusão e desenvolvimento sustentável para todos os seus habitantes.
           </p>
         </div>
-        <div class="row col-12" style="margin-top: -45px">
+        <div class="row col-12" style="margin-top: -100px">
           <div class="col q-pr-xs">
             <video
               class="no-margin no-padding"
@@ -141,7 +141,7 @@
             ></video>
           </div>
         </div>
-        <div class="row col-12" style="margin-top: -110px">
+        <div class="row col-12" style="margin-top: -220px">
           <div class="col q-pr-xs">
             <video
               class="no-margin no-padding"
@@ -166,7 +166,7 @@
           </div>
         </div>
       </div>
-      <div class="row col-12" style="margin-top: -30px">
+      <div class="row col-12" style="margin-top: -85px">
         <div>
           <p class="" style="font-size: 22px; color: #333; text-align: justify; line-height: 1.3; margin-bottom: 50px">
             Paulo Bigodinho se tornou um símbolo de renovação e compromisso com Santa Luzia, trazendo uma gestão focada
