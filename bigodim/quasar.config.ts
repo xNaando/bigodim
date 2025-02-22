@@ -48,6 +48,7 @@ export default defineConfig((/* ctx */) => {
       },
 
       vueRouterMode: 'hash', // available values: 'hash', 'history'
+      publicPath: 'bigodim',
       // vueRouterBase,
       // vueDevtools,
       // vueOptionsAPI: false,
@@ -65,7 +66,7 @@ export default defineConfig((/* ctx */) => {
 
       // extendViteConf (viteConf) {},
       // viteVuePluginOptions: {},
-      
+
       // vitePlugins: [
       //   [ 'package-name', { ..pluginOptions.. }, { server: true, client: true } ]
       // ]
@@ -83,6 +84,7 @@ export default defineConfig((/* ctx */) => {
 
       // iconSet: 'material-icons', // Quasar icon set
       // lang: 'en-US', // Quasar language pack
+      lang: 'pt-BR',
 
       // For special cases outside of where the auto-import strategy can have an impact
       // (like functional components as one of the examples),
